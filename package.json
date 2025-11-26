@@ -1,0 +1,15 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "webprogramming section b",
+  "license": "ISC",
+  "author": "Irfan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
